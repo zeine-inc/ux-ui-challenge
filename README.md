@@ -35,7 +35,7 @@ Investigue como as pessoas se comportam nesses lugares e crie uma solução que:
 ## Entrega
 
 - Envie todo o material (PDF ou link) para **curriculo@zeine.com.br**, com o assunto: **"UX/UI Challenge"**.
-- Prazo: até segunda-feira às 23h.
+- Prazo: até terça-feira às 23h.
 
 ## Agora é contigo!
 
